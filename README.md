@@ -13,6 +13,7 @@
 
 ## روابط
 
+- [تحميل النسخة الجاهزة (v1.0)](https://github.com/braky69/YgoMaster-Arabic/releases/latest)
 - [دليل الاستخدام بالعربية](Docs/Arabic.md)
 - [المشروع الأصلي](https://github.com/pixeltris/YgoMaster)
 - [الترخيص](LICENSE) — [الاعتمادات وحقوق البيانات](NOTICE.md)
