@@ -1,0 +1,92 @@
+[
+  { "1090001": 01 },//Forest
+  { "1090002": 02 },//Spellbook Star Hall
+  { "1090003": 03 },//Ritual Cage
+  { "1090004": 02 },//Geartown
+  { "1090005": 04 },//Volcano
+  { "1090006": 04 },//World Legacy Ruins
+  { "1090007": 05 },//Foreign Capital
+  { "1090008": 01 },//Realm of Danger!
+  { "1090009": 07 },//Night Skyscrapers
+  { "1090010": 15 },//Glacial World
+  { "1090011": 03 },//The Desolate Temple
+  { "1090012": 13 },//Mount Swordsoul
+  { "1090013": 06 },//Vivid Abyssal Waters
+  { "1090014": 09 },//Madolche Chateau
+  { "1090015": 09 },//Ghostrick Mansion
+  { "1090016": 12 },//Myutant Evolution Lab
+  { "1090017": 12 },//Cyber Universe
+  { "1090018": 16 },//Memories of an Ancient Duel
+  { "1090019": 02 },//Dogmatika Cathedral
+  { "1090020": 14 },//Archfiend Palabyrinth
+  { "1090021": 16 },//The Revived Sky Temple
+  { "1090022": 06 },//Pyroxene Cave
+  { "1090023": 12 },//Pressured Planet Wraitsoth
+  { "1090024": 11 },//Ursarctic Big Dipper
+  { "1090025": 16 },//Blue-Eyes Mausoleum
+  { "1090026": 01 },//Forest of Cherry Pink
+  { "1090027": 01 },//Forest of Autumnal Splendor
+  { "1090028": 01 },//Forest of Endless White
+  { "1090030": 15 },//Forest of the Traptrix
+  { "1090031": 12 },//Ruins of the Sinful Spoils
+  { "1090032": 15 },//Lost World
+  { "1090033": [ "BGM_DUEL_F01_ALL", "", "" ] },//Evil★Twin
+  { "1090034": [ "BGM_DUEL_F03_PHASE_A","BGM_DUEL_F03_PHASE_B","BGM_DUEL_F03_PHASE_C" ] },//Striking Stratagem Simulation Area
+  { "1090035": [ "BGM_DUEL_F05_PHASE_A", "BGM_DUEL_F05_PHASE_B", "" ] },//Graveyard of Myriad Souls
+  { "1090036": [ "BGM_DUEL_F04_PHASE_A","BGM_DUEL_F04_PHASE_B","" ] },//Despia, Theater of the Branded
+  { "1090037": [ "BGM_DUEL_F08_PHASE_A","BGM_DUEL_F08_PHASE_B","" ] },//Labrynth Labyrinth
+  { "1090039": [ "BGM_DUEL_F09_PHASE_A","BGM_DUEL_F09_PHASE_B","" ] },//"A Case for K9"
+  { "1090040": [ "BGM_DUEL_F07_PHASE_A", "BGM_DUEL_F07_PHASE_B", "" ] },//Football Stadium
+  { "1090041": [ "BGM_DUEL_F10_PHASE_A","BGM_DUEL_F10_PHASE_B","BGM_DUEL_F10_PHASE_C" ] },//Neon-Lit Cyber City
+  { "1090042": [ "BGM_DUEL_F11_PHASE_A","BGM_DUEL_F11_PHASE_B","" ] },//Fairy Realm - Oratorio Garden
+  { "1092001": [ "BGM_DUEL_EX_02_NORMAL", "BGM_DUEL_EX_02_KEYCARD", "BGM_DUEL_EX_02_CLIMAX" ] },//Colosseum
+  { "1092002": [ "BGM_DUEL_EX_03_NORMAL", "BGM_DUEL_EX_03_KEYCARD", "BGM_DUEL_EX_03_CLIMAX" ] },//WCS (2023,2024)
+  { "1092004": 08 },//Japan High School Championship - https://www.youtube.com/watch?v=EPmylBZg9o4
+  { "1092006": [ "BGM_DUEL_EX_09_PHASE_A", "BGM_DUEL_EX_09_PHASE_B", "" ] },//Synchro Cup - Stage 1 BGM (TODO: Update name if this gets an official name) - https://www.youtube.com/watch?v=VxZsAHJxcQc
+  { "1092008": [ "BGM_DUEL_EX_06_ALL", "", "" ] },//WCS (2025) - Stage 1 BGM (TODO: Update name if this gets an official name) - https://www.youtube.com/watch?v=YYfWQKCgek4
+  { "1092009": [ "BGM_DUEL_EX_11_PHASE_A", "BGM_DUEL_EX_11_PHASE_B", "" ] },//Fusion Cup - Stage 1 BGM (TODO: Update name if this gets an official name) - https://www.youtube.com/watch?v=b-m6C_vWT6c
+  { "1092010": [ "BGM_DUEL_EX_12_NORMAL", "BGM_DUEL_EX_12_KEYCARD", "BGM_DUEL_EX_12_CLIMAX" ] },//WCS (2026?) No BGM yet - using Stage 2 BGM of Fusion Cup (TODO: Update the BGM) (TODO: Update name if this gets an official name)
+]
+//Audio file list: https://code.moenext.com/sherry_chaos/MDPro3/-/tree/master/Assets/Addressables/Sound/BGM
+//BGM_DUEL_NORMAL_01 BGM_DUEL_KEYCARD_01 BGM_DUEL_CLIMAX_01
+//BGM_DUEL_NORMAL_02 BGM_DUEL_KEYCARD_02 BGM_DUEL_CLIMAX_02
+//BGM_DUEL_NORMAL_03 BGM_DUEL_KEYCARD_03 BGM_DUEL_CLIMAX_03
+//BGM_DUEL_NORMAL_04 BGM_DUEL_KEYCARD_04 BGM_DUEL_CLIMAX_04
+//BGM_DUEL_NORMAL_05 BGM_DUEL_KEYCARD_05 BGM_DUEL_CLIMAX_05
+//BGM_DUEL_NORMAL_06 BGM_DUEL_KEYCARD_06 BGM_DUEL_CLIMAX_06
+//BGM_DUEL_NORMAL_07 BGM_DUEL_KEYCARD_07 BGM_DUEL_CLIMAX_07
+//BGM_DUEL_NORMAL_08 BGM_DUEL_KEYCARD_08 BGM_DUEL_CLIMAX_08
+//BGM_DUEL_NORMAL_09 BGM_DUEL_KEYCARD_09 BGM_DUEL_CLIMAX_09
+//BGM_DUEL_NORMAL_10 BGM_DUEL_KEYCARD_10 BGM_DUEL_CLIMAX_10
+//BGM_DUEL_NORMAL_11 BGM_DUEL_KEYCARD_11 BGM_DUEL_CLIMAX_11
+//BGM_DUEL_NORMAL_12 BGM_DUEL_KEYCARD_12 BGM_DUEL_CLIMAX_12
+//BGM_DUEL_NORMAL_13 BGM_DUEL_KEYCARD_13 BGM_DUEL_CLIMAX_13
+//BGM_DUEL_NORMAL_14 BGM_DUEL_KEYCARD_14 BGM_DUEL_CLIMAX_14
+//BGM_DUEL_NORMAL_15 BGM_DUEL_KEYCARD_15 BGM_DUEL_CLIMAX_15
+//BGM_DUEL_NORMAL_16 BGM_DUEL_KEYCARD_16 BGM_DUEL_CLIMAX_16
+//BGM_DUEL_DC01_NORMAL BGM_DUEL_DC01_KEYCARD BGM_DUEL_DC01_CLIMAX
+//BGM_DUEL_DC02_NORMAL BGM_DUEL_DC02_KEYCARD BGM_DUEL_DC02_CLIMAX
+//BGM_DUEL_DC03_NORMAL BGM_DUEL_DC03_KEYCARD BGM_DUEL_DC03_CLIMAX
+//BGM_DUEL_EX_01
+//BGM_DUEL_EX_02_NORMAL BGM_DUEL_EX_02_KEYCARD BGM_DUEL_EX_02_CLIMAX
+//BGM_DUEL_EX_03_NORMAL BGM_DUEL_EX_03_KEYCARD BGM_DUEL_EX_03_CLIMAX
+//BGM_DUEL_EX_04_NORMAL BGM_DUEL_EX_04_KEYCARD BGM_DUEL_EX_04_CLIMAX
+//BGM_DUEL_EX_05_NORMAL BGM_DUEL_EX_05_KEYCARD BGM_DUEL_EX_05_CLIMAX
+//BGM_DUEL_RATE01_NORMAL BGM_DUEL_RATE01_KEYCARD BGM_DUEL_RATE01_CLIMAX
+//BGM_MD_TEST_QUIZ
+//BGM_MENU_01
+//BGM_MENU_02
+//BGM_MENU_RETRO
+//BGM_TUTORIAL_01
+//BGM_OUT_TUTORIAL_2
+//BGM_SOLO_GATE
+
+// Ref: https://en.namu.wiki/w/%EC%9C%A0%ED%9D%AC%EC%99%95%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%EB%93%80%EC%96%BC/OST
+// Using MelonLoader + CinematicUnityExplorer play BGMs using the C# Console:
+// YgomSystem.Sound.Instance.StopAll();
+// YgomSystem.Sound.Instance.PlayBGM("BGM_DUEL_EX_08_ALL");
+
+// Duplicates / 2nd stage events:
+//{ "1092006": [ "BGM_DUEL_EX_10_NORMAL", "BGM_DUEL_EX_10_KEYCARD", "BGM_DUEL_EX_10_CLIMAX" ] },//Synchro Cup - Stage 2 BGM (TODO: Update name if this gets an official name) - https://www.youtube.com/watch?v=JL2qIsYOgNQ
+//{ "1092008": [ "BGM_DUEL_EX_07_PHASE_A", "BGM_DUEL_EX_07_PHASE_B", "" ] },//WCS 2025 - Stage 2 BGM (TODO: Update name if this gets an official name) - https://www.youtube.com/watch?v=3iyU85t-UcQ
+//{ "1092009": [ "BGM_DUEL_EX_12_NORMAL", "BGM_DUEL_EX_12_KEYCARD", "BGM_DUEL_EX_12_CLIMAX" ] },//Fusion Cup - Stage 2 BGM (assumed) (TODO: Update name if this gets an official name) - https://www.youtube.com/watch?v=rnC4cTcRS8Y

@@ -1,0 +1,1332 @@
+{
+  "8": {
+    "id": "5",
+    "regulation_id": 8,
+    "name": "IDS_CARDMENU_REGULATION_UNLIMITED",
+    "icon": "RegulationLogoUnlimited",
+    "enable_room": "1"
+  },
+  "141": {
+    "id": "141",
+    "regulation_id": 141,
+    "name": "IDS_EXHIBITION_REG_015",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "142": {
+    "id": "142",
+    "regulation_id": 142,
+    "name": "IDS_EXHIBITION_REG_016",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "143": {
+    "id": "143",
+    "regulation_id": 143,
+    "name": "IDS_EXHIBITION_REG_030",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "144": {
+    "id": "144",
+    "regulation_id": 144,
+    "name": "IDS_DUELTRIAL_REG_027",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "0"
+  },
+  "145": {
+    "id": "145",
+    "regulation_id": 145,
+    "name": "IDS_REGULATION_NAME_VERSUS_004_1",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "146": {
+    "id": "146",
+    "regulation_id": 146,
+    "name": "IDS_REGULATION_NAME_VERSUS_004_2",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "147": {
+    "id": "147",
+    "regulation_id": 147,
+    "name": "IDS_REGULATION_NAME_VERSUS_004_3",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "148": {
+    "id": "148",
+    "regulation_id": 148,
+    "name": "IDS_DUELTRIAL_REG_030",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "0"
+  },
+  "149": {
+    "id": "149",
+    "regulation_id": 149,
+    "name": "IDS_DICERALLY_REG_001",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "150": {
+    "id": "150",
+    "regulation_id": 150,
+    "name": "IDS_DUELTRIAL_REG_032",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "151": {
+    "id": "151",
+    "regulation_id": 151,
+    "name": "IDS_DUELTRIAL_REG_033",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "152": {
+    "id": "152",
+    "regulation_id": 152,
+    "name": "IDS_EXHIBITION_REG_025",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "153": {
+    "id": "153",
+    "regulation_id": 153,
+    "name": "IDS_EXHIBITION_REG_031",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "154": {
+    "id": "154",
+    "regulation_id": 154,
+    "name": "IDS_EXHIBITION_REG_032",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "155": {
+    "id": "155",
+    "regulation_id": 155,
+    "name": "IDS_DUELTRIAL_REG_036",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "0"
+  },
+  "156": {
+    "id": "156",
+    "regulation_id": 156,
+    "name": "IDS_DICERALLY_REG_002",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "157": {
+    "id": "157",
+    "regulation_id": 157,
+    "name": "IDS_DUELTRIAL_REG_038",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "0"
+  },
+  "158": {
+    "id": "158",
+    "regulation_id": 158,
+    "name": "IDS_DUELTRIAL_REG_039",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "0"
+  },
+  "159": {
+    "id": "159",
+    "regulation_id": 159,
+    "name": "IDS_REGULATION_NAME_VERSUS_005_1",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "160": {
+    "id": "160",
+    "regulation_id": 160,
+    "name": "IDS_REGULATION_NAME_VERSUS_005_2",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "161": {
+    "id": "161",
+    "regulation_id": 161,
+    "name": "IDS_REGULATION_NAME_VERSUS_005_3",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "162": {
+    "id": "162",
+    "regulation_id": 162,
+    "name": "IDS_EXHIBITION_REG_033",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "163": {
+    "id": "163",
+    "regulation_id": 163,
+    "name": "IDS_EXHIBITION_REG_016",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "164": {
+    "id": "164",
+    "regulation_id": 164,
+    "name": "IDS_DUELTRIAL_REG_040",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "0"
+  },
+  "165": {
+    "id": "165",
+    "regulation_id": 165,
+    "name": "IDS_DUELTRIAL_REG_043",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "0"
+  },
+  "166": {
+    "id": "166",
+    "regulation_id": 166,
+    "name": "IDS_EXHIBITION_REG_035",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "167": {
+    "id": "167",
+    "regulation_id": 167,
+    "name": "IDS_DICERALLY_REG_003",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "168": {
+    "id": "168",
+    "regulation_id": 168,
+    "name": "IDS_DUELTRIAL_REG_044",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "0"
+  },
+  "169": {
+    "id": "169",
+    "regulation_id": 169,
+    "name": "IDS_DUELTRIAL_REG_045",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "0"
+  },
+  "170": {
+    "id": "170",
+    "regulation_id": 170,
+    "name": "IDS_REGULATION_NAME_VERSUS_006_1",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "171": {
+    "id": "171",
+    "regulation_id": 171,
+    "name": "IDS_REGULATION_NAME_VERSUS_006_2",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "172": {
+    "id": "172",
+    "regulation_id": 172,
+    "name": "IDS_REGULATION_NAME_VERSUS_006_3",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "173": {
+    "id": "173",
+    "regulation_id": 173,
+    "name": "IDS_DUELTRIAL_REG_047",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "0"
+  },
+  "174": {
+    "id": "174",
+    "regulation_id": 174,
+    "name": "IDS_DICERALLY_REG_004",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "175": {
+    "id": "175",
+    "regulation_id": 175,
+    "name": "IDS_DUELTRIAL_REG_048",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "0"
+  },
+  "176": {
+    "id": "176",
+    "regulation_id": 176,
+    "name": "IDS_DUELTRIAL_REG_049",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "0"
+  },
+  "177": {
+    "id": "177",
+    "regulation_id": 177,
+    "name": "IDS_DUELTRIAL_REG_050",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "0"
+  },
+  "178": {
+    "id": "178",
+    "regulation_id": 178,
+    "name": "IDS_EXHIBITION_REG_034",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "179": {
+    "id": "179",
+    "regulation_id": 179,
+    "name": "IDS_EXHIBITION_REG_036",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "180": {
+    "id": "180",
+    "regulation_id": 180,
+    "name": "IDS_EXHIBITION_REG_016",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "181": {
+    "id": "181",
+    "regulation_id": 181,
+    "name": "IDS_DICERALLY_REG_005",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "182": {
+    "id": "182",
+    "regulation_id": 182,
+    "name": "IDS_DUELTRIAL_REG_053",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "0"
+  },
+  "183": {
+    "id": "183",
+    "regulation_id": 183,
+    "name": "IDS_EXHIBITION_REG_035",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "1"
+  },
+  "1030": {
+    "id": "1030",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1031": {
+    "id": "1031",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1032": {
+    "id": "1032",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1033": {
+    "id": "1033",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1034": {
+    "id": "1034",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1035": {
+    "id": "1035",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1036": {
+    "id": "1036",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1037": {
+    "id": "1037",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1038": {
+    "id": "1038",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1039": {
+    "id": "1039",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1040": {
+    "id": "1040",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1041": {
+    "id": "1041",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1042": {
+    "id": "1042",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1043": {
+    "id": "1043",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1044": {
+    "id": "1044",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1045": {
+    "id": "1045",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1046": {
+    "id": "1046",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1047": {
+    "id": "1047",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1048": {
+    "id": "1048",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1049": {
+    "id": "1049",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1050": {
+    "id": "1050",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1051": {
+    "id": "1051",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1052": {
+    "id": "1052",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1053": {
+    "id": "1053",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1054": {
+    "id": "1054",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1055": {
+    "id": "1055",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1056": {
+    "id": "1056",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1057": {
+    "id": "1057",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1058": {
+    "id": "1058",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1059": {
+    "id": "1059",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1060": {
+    "id": "1060",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1061": {
+    "id": "1061",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "1062": {
+    "id": "1062",
+    "regulation_id": 1062,
+    "name": "IDS_CARDMENU_REGULATION_NORMAL",
+    "icon": "RegulationLogoStandard",
+    "enable_room": "1"
+  },
+  "2030": {
+    "id": "2030",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2031": {
+    "id": "2031",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2033": {
+    "id": "2033",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2034": {
+    "id": "2034",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2035": {
+    "id": "2035",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2036": {
+    "id": "2036",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2037": {
+    "id": "2037",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2038": {
+    "id": "2038",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2039": {
+    "id": "2039",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2040": {
+    "id": "2040",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2042": {
+    "id": "2042",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2043": {
+    "id": "2043",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2044": {
+    "id": "2044",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2045": {
+    "id": "2045",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2046": {
+    "id": "2046",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2048": {
+    "id": "2048",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2051": {
+    "id": "2051",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2052": {
+    "id": "2052",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2053": {
+    "id": "2053",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2054": {
+    "id": "2054",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2055": {
+    "id": "2055",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2056": {
+    "id": "2056",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2057": {
+    "id": "2057",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2058": {
+    "id": "2058",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2059": {
+    "id": "2059",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2060": {
+    "id": "2060",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2061": {
+    "id": "2061",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "2062": {
+    "id": "2062",
+    "regulation_id": 2062,
+    "name": "IDS_REGULATION_FUSION",
+    "icon": "RegulationLogoFusion",
+    "enable_room": "1"
+  },
+  "3030": {
+    "id": "3030",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3031": {
+    "id": "3031",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3033": {
+    "id": "3033",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3034": {
+    "id": "3034",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3035": {
+    "id": "3035",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3036": {
+    "id": "3036",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3037": {
+    "id": "3037",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3038": {
+    "id": "3038",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3039": {
+    "id": "3039",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3040": {
+    "id": "3040",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3042": {
+    "id": "3042",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3043": {
+    "id": "3043",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3044": {
+    "id": "3044",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3045": {
+    "id": "3045",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3046": {
+    "id": "3046",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3048": {
+    "id": "3048",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3051": {
+    "id": "3051",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3052": {
+    "id": "3052",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3053": {
+    "id": "3053",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3054": {
+    "id": "3054",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3055": {
+    "id": "3055",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3056": {
+    "id": "3056",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3057": {
+    "id": "3057",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3058": {
+    "id": "3058",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3059": {
+    "id": "3059",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3060": {
+    "id": "3060",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3061": {
+    "id": "3061",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "3062": {
+    "id": "3062",
+    "regulation_id": 3062,
+    "name": "IDS_REGULATION_SYNCHRO",
+    "icon": "RegulationLogoSynchro",
+    "enable_room": "1"
+  },
+  "4030": {
+    "id": "4030",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4031": {
+    "id": "4031",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4033": {
+    "id": "4033",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4034": {
+    "id": "4034",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4035": {
+    "id": "4035",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4036": {
+    "id": "4036",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4037": {
+    "id": "4037",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4038": {
+    "id": "4038",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4039": {
+    "id": "4039",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4040": {
+    "id": "4040",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4042": {
+    "id": "4042",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4043": {
+    "id": "4043",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4044": {
+    "id": "4044",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4045": {
+    "id": "4045",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4046": {
+    "id": "4046",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4048": {
+    "id": "4048",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4051": {
+    "id": "4051",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4052": {
+    "id": "4052",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4053": {
+    "id": "4053",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4054": {
+    "id": "4054",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4055": {
+    "id": "4055",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4056": {
+    "id": "4056",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4057": {
+    "id": "4057",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4058": {
+    "id": "4058",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4059": {
+    "id": "4059",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4060": {
+    "id": "4060",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4061": {
+    "id": "4061",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "4062": {
+    "id": "4062",
+    "regulation_id": 4062,
+    "name": "IDS_REGULATION_XYZ",
+    "icon": "RegulationLogoXyz",
+    "enable_room": "1"
+  },
+  "5030": {
+    "id": "5030",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5031": {
+    "id": "5031",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5033": {
+    "id": "5033",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5034": {
+    "id": "5034",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5035": {
+    "id": "5035",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5036": {
+    "id": "5036",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5037": {
+    "id": "5037",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5038": {
+    "id": "5038",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5039": {
+    "id": "5039",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5040": {
+    "id": "5040",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5042": {
+    "id": "5042",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5043": {
+    "id": "5043",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5044": {
+    "id": "5044",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5045": {
+    "id": "5045",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5046": {
+    "id": "5046",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5048": {
+    "id": "5048",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5051": {
+    "id": "5051",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5052": {
+    "id": "5052",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5053": {
+    "id": "5053",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5054": {
+    "id": "5054",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5055": {
+    "id": "5055",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5056": {
+    "id": "5056",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5057": {
+    "id": "5057",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5058": {
+    "id": "5058",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5059": {
+    "id": "5059",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5060": {
+    "id": "5060",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5061": {
+    "id": "5061",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "5062": {
+    "id": "5062",
+    "regulation_id": 5062,
+    "name": "IDS_REGULATION_LINK",
+    "icon": "RegulationLogoLink",
+    "enable_room": "1"
+  },
+  "10001": {
+    "id": "10001",
+    "regulation_id": 10001,
+    "name": "IDS_WCSPORTAL_EXHIBITION_INFO_HEADER",
+    "icon": "RegulationLogoEvent",
+    "enable_room": "0"
+  }
+}

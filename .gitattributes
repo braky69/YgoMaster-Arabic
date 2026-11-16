@@ -1,0 +1,20 @@
+* text eol=lf
+
+# Declare files that will always have CRLF line endings on checkout.
+*.sln text eol=crlf
+*.csproj text eol=crlf
+
+# Denote all files that are truly binary and should not be modified.
+*.png binary
+*.jpg binary
+# Binary data (never apply text/CRLF conversion)
+*.bytes binary
+*.zip binary
+*.7z binary
+*.ico binary
+*.dll binary
+*.exe binary
+*.lib binary
+*.pdb binary
+*.ttf binary
+*.otf binary
